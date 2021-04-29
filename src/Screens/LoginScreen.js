@@ -64,7 +64,7 @@ const LoginScreen = ({ location, history }) => {
           ></Form.Control>
         </Form.Group>
         <Button type="submit" variant="primary">
-          connecter
+          Connecter
         </Button>
       </Form>
       <Row className="py-3">
